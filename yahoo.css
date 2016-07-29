@@ -1,0 +1,47 @@
+
+#menu li {
+  display: block;
+  height: 20px;
+  line-height: 20px;
+
+}
+
+#menu li img {
+  vertical-align: left;
+}
+
+.purpleband {
+  background-color: #9932CC;
+
+}
+
+#nav-bar {
+  float: left;;
+  margin-left: : 4em;
+  background-color: #9932CC;
+
+}
+
+button {
+  background-color: #9932CC;
+}
+
+#yahoo {
+  float: left;;
+  margin-left: : 10em;
+}
+
+#user_image {
+}
+
+.Scores {
+  background-color: #9932CC;
+}
+
+.Stocks {
+  background-color: #9932CC;
+}
+
+.uppermiddle {
+  background-image: url("http://cdn.pcwallart.com/images/jesse-eisenberg-2014-wallpaper-2.jpg")
+}
